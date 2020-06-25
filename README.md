@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tyappsell
 
 ## Project setup
@@ -22,3 +23,7 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# tyapp
+基于vue+vuex+vue-router+vant 移动端点餐系统
+>>>>>>> 014b375b628c4a96a545c6bf650df8924c7cc0bf
